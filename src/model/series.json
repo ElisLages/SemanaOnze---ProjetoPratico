@@ -1,0 +1,78 @@
+[{
+    "id": 1,
+    "title": "Angel",
+    "genre": "Aventura",
+    "year": "1999",
+    "seasons": "5",
+    "watched": true
+}, {
+    "id": 2,
+    "title": "Friends",
+    "genre": "Humor",
+    "year": "1994",
+    "seasons": "10",
+    "watched": true
+}, {
+    "id": 3,
+    "title": "GreenLeaf",
+    "genre": "Drama",
+    "year": "2016",
+    "seasons": "5",
+    "watched": true
+}, {
+    "id": 4,
+    "title": "The Fresh Prince of Bel-Air",
+    "genre": "Humor",
+    "year": "1990",
+    "seasons": "6",
+    "watched": false
+}, {
+    "id": 5,
+    "title": "Game Of Thrones",
+    "genre": "Drama",
+    "year": "2011",
+    "seasons": "8",
+    "watched": true
+}, {
+    "id": 6,
+    "title": "How I Met Your Mother",
+    "genre": "Humor",
+    "year": "2005",
+    "seasons": "9",
+    "watched": true
+}, {
+    "id": 7,
+    "title": "Lucifer",
+    "genre": "Drama",
+    "year": "2016",
+    "seasons": "5",
+    "watched": true
+}, {
+    "id": 8,
+    "title": "Gotham",
+    "genre": "Policial",
+    "year": "2014",
+    "seasons": "5",
+    "watched": false
+}, {
+    "id": 9,
+    "title": "Russian Doll",
+    "genre": "Comédia Dramática",
+    "year": "2019",
+    "seasons": "1",
+    "watched": true
+}, {
+    "id": 10,
+    "title": "Stranger Things",
+    "genre": "Ficção Científica",
+    "year": "2016",
+    "seasons": "3",
+    "watched": true
+}, {
+    "id": 11,
+    "title": "Dark",
+    "genre": "Drama, Suspense e Ficção Científica",
+    "year": "2017",
+    "seasons": "3",
+    "watched": false
+}]
